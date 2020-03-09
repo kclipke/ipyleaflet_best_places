@@ -1,7 +1,7 @@
 ## Mapping U.S. News & World Report's
-## 125 Best Places to Live in the USA
+## [_125 Best Places to Live in the USA_](https://realestate.usnews.com/places/rankings/best-places-to-live)
 
-If you would like to review their methodology:
+If you would like to review their [methodology](https://realestate.usnews.com/places/methodology):
 
 > U.S. News & World Report's Best Places to Live rankings are intended to help readers make the most informed decision when choosing where to settle down. The metro areas included in the rankings are evaluated using data from trusted sources like the United States Census Bureau, the Federal Bureau of Investigation, the Department of Labor and U.S. News' own internal resources. This data was categorized into the five indexes listed below and then evaluated using a methodology determined by Americans' preferences. The percent weighting for each index follows the answers from a public survey in which people from across the country voted for what they believed was the most important thing to consider when thinking about moving.
 
